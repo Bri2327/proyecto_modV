@@ -1,0 +1,57 @@
+{
+  "users": [
+    {
+      "email": "brigith.espinoza@gmail.com",
+      "password": "$2a$10$H4GjxaKjqct44az3eTNVVuD4fsYDCfdgG4iBUHmoU054E..JVRHSy",
+      "id": 1
+    },
+    {
+      "email": "brigith.espinozap@gmail.com",
+      "password": "$2a$10$dGb9NkJwlx9ycxKY9dGdmeCn3v2NaeE9b8U66XRENU0SkxTWMx1vq",
+      "id": 2
+    }
+  ],
+  "categorias": [
+    {
+      "id": 1,
+      "nombre": "Electrónica",
+      "descripcion": "Dispositivos electrónicos"
+    },
+    {
+      "id": 2,
+      "nombre": "Ropa",
+      "descripcion": "Prendas de vestir"
+    },
+    {
+      "nombre": "muebles",
+      "descripcion": "muebles de madera",
+      "id": 3
+    }
+  ],
+  "productos": [
+    {
+      "nombre": "Laptop Lenovo",
+      "precio": 3400,
+      "stock": 5,
+      "descripcion": "Laptop para oficina",
+      "categoriaId": 1,
+      "id": 1
+    },
+    {
+      "id": 2,
+      "nombre": "Polera básica",
+      "precio": 80,
+      "stock": 20,
+      "descripcion": "Polera casual",
+      "categoriaId": 2
+    },
+    {
+      "nombre": "mesa",
+      "precio": 400,
+      "stock": 45,
+      "descripcion": "mesa de sala ",
+      "categoriaId": 3,
+      "id": 3
+    }
+  ]
+}

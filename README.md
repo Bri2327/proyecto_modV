@@ -43,3 +43,11 @@ npm run dev
 ## Nota
 No incluir la carpeta `node_modules` en el repositorio.
 El archivo `db.json` debe estar incluido en el proyecto.
+
+## Imagenes
+- Registro
+![Pantalla de registro](./DEMO/registro_proyecto.png)
+- Productos
+![Pantalla de productos](./DEMO/productos_proyecto.png)
+- Categorias
+![Pantalla de categorias](./DEMO/categorias_proyecto.png)

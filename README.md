@@ -45,6 +45,9 @@ No incluir la carpeta `node_modules` en el repositorio.
 El archivo `db.json` debe estar incluido en el proyecto.
 
 ## Imagenes
+
+SE ENCUENTRA EN EL ARCHIVO DEMO 
+
 - Registro
 ![Pantalla de registro](./DEMO/registro_proyecto.png)
 - Productos
